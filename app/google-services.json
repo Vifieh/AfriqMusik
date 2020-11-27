@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105775113023",
+    "firebase_url": "https://example-c83b1.firebaseio.com",
+    "project_id": "example-c83b1",
+    "storage_bucket": "example-c83b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105775113023:android:bc68193d4da557d859298a",
+        "android_client_info": {
+          "package_name": "com.example.songsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105775113023-l4rs4knfjnetd9bssc8jmuh1tle6gv3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdubbfP_1Xjfb6YXmvFTf_rfeoyv5HRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105775113023-l4rs4knfjnetd9bssc8jmuh1tle6gv3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
